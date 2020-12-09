@@ -6,4 +6,6 @@ int main() {
 	printf("In development\n");
 	printf("New line in master\n");
 	printf("New line in development\n");
+	printf("Test cherry-pick\n");
+	printf("First remote changes\n");
 }
